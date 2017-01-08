@@ -1,33 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic Theme</title>
-    <link>https://example.com/publication/index.xml</link>
-    <description>Recent content in Publications on Academic Theme</description>
+    <title>Publications on Junha Roh</title>
+    <link>https://rohjunha.github.io/publication/index.xml</link>
+    <description>Recent content in Publications on Junha Roh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 Junha Roh</copyright>
+    <lastBuildDate>Mon, 08 Dec 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://example.com/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>A Fast TGV-l1 RGB-D Flow Estimation</title>
+      <link>https://rohjunha.github.io/publication/tgvl1/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://rohjunha.github.io/publication/tgvl1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://example.com/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Robust Visual Tracking with Double Bounding Box Model</title>
+      <link>https://rohjunha.github.io/publication/dbb/</link>
+      <pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://rohjunha.github.io/publication/dbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking using the joint inference of target state and segment-based appearance models</title>
+      <link>https://rohjunha.github.io/publication/apsipa/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://rohjunha.github.io/publication/apsipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Tracking using Joint Inference of Target State and Segment-based Appearance Models</title>
+      <link>https://rohjunha.github.io/publication/master-thesis/</link>
+      <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://rohjunha.github.io/publication/master-thesis/</guid>
+      <description></description>
     </item>
     
   </channel>

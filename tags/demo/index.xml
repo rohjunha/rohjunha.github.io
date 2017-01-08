@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Academic Theme</title>
-    <link>https://example.com/tags/demo/index.xml</link>
-    <description>Recent content in Demo on Academic Theme</description>
+    <title>Demo on Junha Roh</title>
+    <link>https://rohjunha.github.io/tags/demo/index.xml</link>
+    <description>Recent content in Demo on Junha Roh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Junha Roh</copyright>
     <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/example-external-project/</link>
+      <link>https://rohjunha.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/example-external-project/</guid>
+      <guid>https://rohjunha.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
